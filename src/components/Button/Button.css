@@ -1,0 +1,18 @@
+.button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 5px;
+    color: white;
+  }
+  
+  .red-button {
+    background-color: red;
+  }
+  
+  .blue-button {
+    background-color: blue;
+  }
+  
